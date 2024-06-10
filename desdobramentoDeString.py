@@ -23,4 +23,4 @@ for n in range(qtd_testes):
         
         print(int(saida), end = '')
 
-    print() #pula uma linha depois da resposta
+    print() #pula uma linha depois da resposta 

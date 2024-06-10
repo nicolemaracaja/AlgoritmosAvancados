@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 n = int(input())
 playlist = [int (x) for x in input().split()]
 

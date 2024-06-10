@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 entrada = input()
 saida = list(entrada) #inicia com uma lista dos caracteres da entrada
 tamanho = len(entrada)

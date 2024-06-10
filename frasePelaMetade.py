@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 def calcular_diferentes(inicio, fim, alvo, string):  #percorre a string delimitada pelos indices inicio e fim e conta quantos caracteres sao diferentes do alvo
     qtd = 0 #qtd de caracteres diferentes
     for i in range(inicio, fim + 1): #percorre toda a substring

@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 n, k, q = [int(x) for x in input().split()]
 # n = qtd de receitas que aline conhece
 # k = qtd de receitas admissiveis

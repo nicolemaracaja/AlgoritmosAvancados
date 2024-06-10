@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 entrada = [int(x) for x in input().split(" ")] 
 array = [int(y) for y in input().split(" ")]
 

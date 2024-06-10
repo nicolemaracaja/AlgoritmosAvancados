@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 def max_soma(n, array):
     ponteiro_esquerdo = 0
     ponteiro_direito = n - 1 #começa do final do array

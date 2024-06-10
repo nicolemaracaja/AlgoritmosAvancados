@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 def pega_indices(seq):
     indice_numero = {}
     for i in range(len(seq)):

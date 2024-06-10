@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 qtd_quartos, qtd_vacas = [int(x) for x in input().split(" ")]
 quartos = input()
 soma = [0] * (qtd_quartos + 1) #vai armazenar a soma de prefixos (1 casa a mais)

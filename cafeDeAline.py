@@ -25,4 +25,3 @@ for l in range(1, len(receitas)): #soma de prefixos para saber quais as receitas
 for m in range(q): #perguntas de aline
     c, d = [int(w) for w in input().split()]
     print(receitas[d] - receitas[c - 1]) #qtd de admissiveis dentro do intervalo
-

@@ -1,3 +1,5 @@
+#Nicole Brito Maracajá
+
 n = int(input())  
 seq = list(map(int, input().split())) 
 
